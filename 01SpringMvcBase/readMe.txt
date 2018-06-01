@@ -21,6 +21,9 @@ springMVC:
 
 	     http://www.springframework.org/schema/mvc
         http://www.springframework.org/schema/mvc/spring-mvc.xsd
+
+        添加默认处理器映射
+        配置视图解析器
 	 04.书写一个controller(其实就是我们的servlet) 继承 AbastractController
 
 
